@@ -6,4 +6,8 @@
 
 留下联系方式仅限于技术交流，请灰产人员不要询问如何绕过反作弊或则如何过某检测相关问题。
 
-Telegram:CnHack2022    Enigma:CnHack2021     Tencent_QQ:1420601862
+Telegram:CnHack2022
+
+Enigma:CnHack2021
+
+Tencent_QQ:1420601862
