@@ -17,5 +17,3 @@ The contact information left is limited to technical exchange. Please don't ask 
 Telegram:CnHack2022
 
 Enigma:CnHack2021
-
-Tencent_QQ:1420601862
